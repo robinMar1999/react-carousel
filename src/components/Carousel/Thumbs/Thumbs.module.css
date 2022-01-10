@@ -1,0 +1,12 @@
+.Thumbs {
+  height: 15%;
+  width: 100%;
+  display: flex;
+  overflow-x: auto;
+  align-items: center;
+  justify-content: left;
+}
+
+.error {
+  color: rgb(199, 101, 101);
+}

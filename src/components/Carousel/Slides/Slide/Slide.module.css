@@ -1,0 +1,6 @@
+.Slide {
+  height: 100%;
+  width: 100%;
+  flex-shrink: 0;
+  transition: transform 700ms ease;
+}

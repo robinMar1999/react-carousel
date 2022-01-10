@@ -1,0 +1,7 @@
+.Bullets {
+  width: 100%;
+  height: 15%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}

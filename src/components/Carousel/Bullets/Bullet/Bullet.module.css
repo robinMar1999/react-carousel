@@ -1,0 +1,15 @@
+.Bullet {
+  display: block;
+  height: 16px;
+  width: 16px;
+  border-radius: 50%;
+  border: 1px solid rgba(105, 105, 105, 0.349);
+  margin: 0 4px;
+  cursor: pointer;
+  background-color: rgb(241, 238, 238);
+  box-shadow: 2px 2px 2px 0px rgba(0, 0, 0, 0.3);
+}
+
+.Bullet.active {
+  background-color: rgb(207, 205, 205);
+}
